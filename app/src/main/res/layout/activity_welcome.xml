@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout tools:context="com.urg.partner.ui.activity.welcome.WelcomeActivity" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <LinearLayout android:orientation="vertical" android:layout_height="0dp" android:layout_width="match_parent" android:layout_weight="1">
+
+            <androidx.viewpager.widget.ViewPager android:layout_height="0dp" android:layout_width="match_parent" android:layout_weight="1" tools:ignore="NestedWeights" android:id="@+id/view_pager"/>
+
+            <LinearLayout android:orientation="horizontal" android:layout_height="50dp" android:layout_width="match_parent" tools:ignore="ObsoleteLayoutParam" android:id="@+id/layoutDots" android:padding="8dp" android:gravity="center" android:layout_alignParentBottom="true"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout android:orientation="vertical" android:layout_height="wrap_content" android:layout_width="match_parent">
+
+
+            <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" android:layout_width="match_parent">
+
+                <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1" tools:ignore="ButtonStyle" android:id="@+id/sign_in" android:textColor="#FFF" android:text="@string/sign_in" android:fontFamily="@font/clanpro_medium" android:background="@drawable/button_round_primary" android:layout_margin="8dp"/>
+
+                <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1" android:id="@+id/sign_up" android:textColor="#FFF" android:text="@string/sign_up" android:fontFamily="@font/clanpro_medium" android:background="@drawable/button_round_accent" android:layout_margin="8dp"/>
+
+            </LinearLayout>
+
+            <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/social_login" android:padding="12dp" android:gravity="center" android:textColor="@color/ripple_color" android:text="@string/or_connect_with_social" android:fontFamily="@font/clanpro_narrnews" android:visibility="gone"/>
+
+        </LinearLayout>
+
+    </LinearLayout>

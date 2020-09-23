@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627325070032",
+    "firebase_url": "https://urgamerican.firebaseio.com",
+    "project_id": "urgamerican",
+    "storage_bucket": "urgamerican.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627325070032:android:28244b54e9ba7d22bdccd5",
+        "android_client_info": {
+          "package_name": "com.urg.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627325070032-cvdk5oeh59h886vqu5tbdmm6ke1ip2vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjEqgINOJQDjpRge3rxgDchGu-yZS-vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627325070032-cvdk5oeh59h886vqu5tbdmm6ke1ip2vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
