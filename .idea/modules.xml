@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/URG_Partner.iml" filepath="$PROJECT_DIR$/.idea/modules/URG_Partner.iml" group="URG_Partner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="URG_Partner/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/braintreepayment/braintreepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/braintreepayment/braintreepayment.iml" group="URG_Partner/braintreepayment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/nativechekoutpaypal.iml" filepath="$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/nativechekoutpaypal.iml" group="URG_Partner/nativechekoutpaypal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paytmpayment/paytmpayment.iml" filepath="$PROJECT_DIR$/.idea/modules/paytmpayment/paytmpayment.iml" group="URG_Partner/paytmpayment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stripepayment/stripepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/stripepayment/stripepayment.iml" group="URG_Partner/stripepayment" />
+    </modules>
+  </component>
+</project>
