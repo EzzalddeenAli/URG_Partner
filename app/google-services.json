@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "627325070032",
-    "firebase_url": "https://urgamerican.firebaseio.com",
-    "project_id": "urgamerican",
-    "storage_bucket": "urgamerican.appspot.com"
+    "project_number": "149502418659",
+    "firebase_url": "https://esoteric-grove-214116.firebaseio.com",
+    "project_id": "esoteric-grove-214116",
+    "storage_bucket": "esoteric-grove-214116.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:627325070032:android:28244b54e9ba7d22bdccd5",
+        "mobilesdk_app_id": "1:149502418659:android:639de7b5c65ec5cca7efd6",
         "android_client_info": {
           "package_name": "com.urg.partner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "627325070032-cvdk5oeh59h886vqu5tbdmm6ke1ip2vl.apps.googleusercontent.com",
+          "client_id": "149502418659-m0gentd9b0c442tja5lhg15lou62koh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urg.partner",
+            "certificate_hash": "066b416ffb4306702b5adbe33f4bf17522ef4782"
+          }
+        },
+        {
+          "client_id": "149502418659-hnsojl5rd0fh5ofj42p002b0r82l2v7u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDbjEqgINOJQDjpRge3rxgDchGu-yZS-vY"
+          "current_key": "AIzaSyC-oO5yVCXJk6kCMz0pAL6JEDxA-qwomsw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "627325070032-cvdk5oeh59h886vqu5tbdmm6ke1ip2vl.apps.googleusercontent.com",
+              "client_id": "149502418659-hnsojl5rd0fh5ofj42p002b0r82l2v7u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

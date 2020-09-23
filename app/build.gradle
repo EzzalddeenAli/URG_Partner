@@ -26,7 +26,7 @@ android {
 
 
         resValue "string", "app_name", "URG American Conductor"
-        resValue "string", "google_map_key", "AIzaSyDbjEqgINOJQDjpRge3rxgDchGu-yZS-vY"
+        resValue "string", "google_map_key", "AIzaSyC-oO5yVCXJk6kCMz0pAL6JEDxA-qwomsw"
         resValue "string", "FACEBOOK_APP_ID", "561848431077421"
         resValue "string", "fb_login_protocol_scheme", "fb561848431077421"
         resValue "string", "ACCOUNT_KIT_CLIENT_TOKEN", "3f73b9bdd9f499561e32e834e7dcd1f8"
@@ -134,7 +134,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-storage:19.1.0'
     implementation 'com.google.firebase:firebase-core:17.2.1'
     implementation 'com.google.firebase:firebase-auth:19.1.0'
-    implementation 'com.google.firebase:firebase-analytics:17.2.1'
+
+    implementation 'com.google.firebase:firebase-analytics:17.5.0'
 
     /*      toasty      */
     implementation 'com.github.GrenderG:Toasty:1.3.1'
