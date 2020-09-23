@@ -353,7 +353,7 @@
 
     <string name="pick_up">Ubicación de origen</string>
 
-    <string name="pick_up_invoice">Recogido</string>
+    <string name="pick_up_invoice">Pasajero a Bordó</string>
 
     <string name="drop_at">Ubicación de destino</string>
 
@@ -362,7 +362,7 @@
 
     <string name="arrived">LLEGADO</string>
 
-    <string name="picked_up">RECOGIDO</string>
+    <string name="picked_up">Pasajero a Bordó</string>
 
     <string name="tap_when_dropped">TOQUE CUANDO SE DEJÓ</string>
 
@@ -464,7 +464,7 @@
 
     <string name="ride_cancelled">Viaje Cancelado!</string>
 
-    <string name="tab_when_dropped">TOQUE CUANDO SE DEJÓ</string>
+    <string name="tab_when_dropped">Toque al Terminar el viaje</string>
 
     <string name="otp_verified">Código Verificado!</string>
 
